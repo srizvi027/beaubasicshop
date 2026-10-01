@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
+<ellipse cx="400" cy="700" rx="210" ry="22" fill="#000" opacity=".08"/>
+<path d="M240 260 l60 -50 h260 l-60 50 z" fill="#7A4A23"/>
+<path d="M500 260 l60 -50 v380 l-60 50 z" fill="#7A4A23" opacity=".75"/>
+<rect x="240" y="260" width="260" height="380" fill="#F2E2C4"/>
+<text x="370.0" y="420" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="27.0" fill="#3D2410">Choc Nut</text>
+<text x="370.0" y="457.8" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="700" letter-spacing="2" font-size="19.8" fill="#3D2410">24 PIECES</text>
+</svg>

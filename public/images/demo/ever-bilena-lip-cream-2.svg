@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
+<circle cx="400" cy="420" r="300" fill="#FFE4EC"/><ellipse cx="400" cy="700" rx="210" ry="22" fill="#000" opacity=".08"/>
+<rect x="335" y="200" width="130" height="200" rx="18" fill="#1A1A1A"/>
+<rect x="320" y="390" width="160" height="290" rx="20" fill="#B4384F"/>
+<rect x="335" y="410" width="22" height="250" rx="11" fill="#fff" opacity=".2"/>
+<text x="400" y="560" text-anchor="middle" font-family="Georgia, serif" font-style="italic" font-size="26" fill="#FFFFFF" transform="rotate(-90 400 540)">Ever Bilena</text>
+</svg>

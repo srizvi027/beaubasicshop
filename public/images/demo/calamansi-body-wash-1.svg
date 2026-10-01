@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
+<ellipse cx="400" cy="700" rx="210" ry="22" fill="#000" opacity=".08"/>
+<path d="M285 180 h230 l-18 420 h-194 z" fill="#E3F1B5"/>
+<rect x="290" y="168" width="220" height="24" rx="6" fill="#7EA524"/>
+<rect x="335" y="600" width="130" height="70" rx="12" fill="#7EA524"/>
+<path d="M300 200 h26 l-12 390 h-20 z" fill="#fff" opacity=".2"/>
+<text x="400.0" y="360" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="25.5" fill="#22340A">Kalamansi</text>
+<text x="400.0" y="395.7" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="700" letter-spacing="2" font-size="18.7" fill="#22340A">BODY WASH</text>
+</svg>
